@@ -15,7 +15,7 @@ lista.adicionar(9, inicio=True)
 lista.show()
 
 lista.remover(3)
-lista.remover(8)
+lista.remover(5)
 lista.remover(6)
 
 lista.show()
